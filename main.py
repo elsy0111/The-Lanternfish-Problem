@@ -1,4 +1,18 @@
-s = 0
-for i in range(9):
-    s += int(input())
-print(s)
+#        +ﾟ☆* ﾖｼｯ！キミに
+#      ｡;*｜∧ ∧ レートを
+#    ･ﾟ＊* ∩ ･ω･ )与えよう
+#  ☆:+｡･  ﾉ    ⊃
+# +*:*+*･ し --J
+
+import io
+import sys
+
+_INPUT = """\
+
+
+
+"""
+
+sys.stdin = io.StringIO(_INPUT)
+
+# ? ===========================================
